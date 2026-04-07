@@ -1,0 +1,2 @@
+# TugasRA
+NIZCD &amp; IZCD SIMULATION
